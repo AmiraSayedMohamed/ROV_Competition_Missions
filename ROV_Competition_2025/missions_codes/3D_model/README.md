@@ -31,7 +31,7 @@ the output of MeshyAI is looksLike This:
 ![ROV Mission](https://github.com/AmiraSayedMohamed/ROV_Competition_Missions/blob/master/ROV_Competition_2025/Pictures%20And%20Videos/MeshyAIVideoOutput2.mp4)
 
 - Tips For Photogrammetry Sucess:
-![ROV Mission](Pictures/TipsForPhotogrammetrySucess.jpg)
+![ROV Mission](https://github.com/AmiraSayedMohamed/ROV_Competition_Missions/blob/master/ROV_Competition_2025/Pictures%20And%20Videos/TipsForPhotogrammetrySucess.jpg)
 
 - Convert Video to 3d Using Blender:
 https://youtu.be/jkiM9qPNC8w
