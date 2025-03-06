@@ -19,12 +19,10 @@ and also another problem i have calibrate the camera from a distance 46 from thi
 - Depth Pro
 - Marigold-E2E
 - Metric3D v2
-in this picuture:
-![ROV Mission](Pictures/depthSensor.jpg)  
 
 - There is also a depth sensor where you can measure the distance between the camera and the measured object:
 you can find it in the provdied link:
 https://ar.aliexpress.com/item/1005006205893222.html?gatewayAdapt=glo2ara
 
 - here it's The Picture of the sensor:
-![ROV Mission](Pictures/depthSensor.jpg)  
+![ROV Mission](https://github.com/AmiraSayedMohamed/ROV_Competition_Missions/blob/master/ROV_Competition_2025/Pictures%20And%20Videos/depthSensor.jpg)  
