@@ -2,7 +2,7 @@
 in this task they want you create 3d model video when the Rov was underwater , it should  rotate and create a 3d model of all the basin
 
 - like the video attached:
-- ![ROV Mission](https://github.com/AmiraSayedMohamed/ROV_Competition_Missions/blob/master/ROV_Competition_2025/missions_codes/3D_model/ThreeDModel_Output.mp4) 
+- [Watch The Video](https://github.com/AmiraSayedMohamed/ROV_Competition_Missions/blob/master/ROV_Competition_2025/missions_codes/3D_model/ThreeDModel_Output.mp4) 
 
 - you can create a 3d model using Several Programs and also can create it usign a code but using the code wasn't not accurate at all , here it's all the programs you can use to create a 3d model :
 - jawset.com
