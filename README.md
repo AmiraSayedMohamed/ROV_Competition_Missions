@@ -27,12 +27,12 @@ This repository includes a **Graphical User Interface (GUI)** to control or simu
 ✅ Real-time sensor data visualization 📊  
 ✅ Interactive controls for ROV movement 🎮  
 ✅ Mission simulation mode 🌍  
-✅ User-friendly dashboard 🖥️  
+✅ User-friendly dashboard 🖥️ 
 
 ### 🚀 How to Run the GUI:  
 1. **Install Dependencies**  
    ```bash
-   pip install -r GUI_Code/requirements.txt
+   python main.py
 
 ### 🎯 Our Goal
 Our mission is to design, build, and deploy cutting-edge ROVs to complete complex underwater tasks while developing our technical and teamwork skills. 💡🔧
