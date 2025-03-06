@@ -2,7 +2,7 @@
 in this task they want you create 3d model video when the Rov was underwater , it should  rotate and create a 3d model of all the basin
 
 - like the video attached:
-- ![ROV Mission](missions_codes/3D_model/ThreeDModel_Output.mp4) 
+- ![ROV Mission](https://github.com/AmiraSayedMohamed/ROV_Competition_Missions/blob/master/ROV_Competition_2025/missions_codes/3D_model/ThreeDModel_Output.mp4) 
 
 - you can create a 3d model using Several Programs and also can create it usign a code but using the code wasn't not accurate at all , here it's all the programs you can use to create a 3d model :
 - jawset.com
@@ -20,15 +20,15 @@ https://smoothie-3d.com/site/page_index.php
 
 - PolyCam :
 https://poly.cam/
-![ROV Mission](Pictures/PolyCam.jpg)
+![ROV Mission](https://github.com/AmiraSayedMohamed/ROV_Competition_Missions/blob/master/ROV_Competition_2025/Pictures%20And%20Videos/PolyCam.jpg)
 
 - Meshy AI:
 https://www.meshy.ai/
-![ROV Mission](Pictures/MeshyAI.jpg)
+![ROV Mission](https://github.com/AmiraSayedMohamed/ROV_Competition_Missions/blob/master/ROV_Competition_2025/Pictures%20And%20Videos/MeshyAI.jpg)
 the output of MeshyAI is looksLike This:
-![ROV Mission](Pictures And Videos/meshyAiOutput.jpg)
-![ROV Mission](Pictures And Videos/MeshyAIVideoOutput1.mp4)
-![ROV Mission](Pictures And Videos/MeshyAIVideoOutput2.mp4)
+![ROV Mission](https://github.com/AmiraSayedMohamed/ROV_Competition_Missions/blob/master/ROV_Competition_2025/Pictures%20And%20Videos/meshyAiOutput.jpg)
+![ROV Mission](https://github.com/AmiraSayedMohamed/ROV_Competition_Missions/blob/master/ROV_Competition_2025/Pictures%20And%20Videos/MeshyAIVideoOutput1.mp4)
+![ROV Mission](https://github.com/AmiraSayedMohamed/ROV_Competition_Missions/blob/master/ROV_Competition_2025/Pictures%20And%20Videos/MeshyAIVideoOutput2.mp4)
 
 - Tips For Photogrammetry Sucess:
 ![ROV Mission](Pictures/TipsForPhotogrammetrySucess.jpg)
